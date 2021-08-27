@@ -1,0 +1,54 @@
+.cover_feature{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.feature{
+    margin:10px;
+    border:2px solid black;
+    width:fit-content;
+    height: fit-content;
+    padding:1em;
+    border-radius:15px;
+}
+.btn{
+    border:2px solid black;
+    height:fit-content;
+    width:fit-content;
+    border-radius:10px;
+    margin: 10px;
+    cursor:pointer;
+}
+.btn .image{
+    height: 5rem;
+    width:5rem;
+    padding:1em;
+}
+.Arrowimage{
+    height: 3rem;
+    width:5rem;
+    margin-bottom:10%;
+}
+
+/* button */
+
+.btn_selectfile {
+    background-color: #098cf8; /* Green */
+    border: none;
+      
+  color: white;
+    padding: 10px;
+    width:8rem;
+    text-align: center;
+    /* margin-top:50%; */
+    /* margin-bottom: 5px; */
+    
+    
+  text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #098cf8;
+    border-radius: 25px;
+    cursor: pointer;
+  } 

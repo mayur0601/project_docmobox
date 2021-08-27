@@ -1,0 +1,43 @@
+.sign{
+    background:url('../assetss/bg.jpg');
+    width:100vw;   
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.sign_in{
+    width: 25rem;
+    height:25rem;
+    background-color: white;
+    padding: 1rem;
+    border-radius:25px;
+
+}
+.text-control{
+    font-size: 1rem;
+    border: none ;
+    outline: none !important;
+    border-bottom: 2px solid black;
+    background-color:white;
+    width: 80%;
+    letter-spacing:2px;
+}
+.btn_selectfile {
+    background-color: #098cf8; /* Green */
+    border: none;
+      
+  color: white;
+    padding: 10px;
+    width:8rem;
+    text-align: center;
+    margin-top:50px;
+    
+    
+  text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border:2px solid #098cf8;
+    border-radius: 25px;
+    cursor: pointer;
+  } 
